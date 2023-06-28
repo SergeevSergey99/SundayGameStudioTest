@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TASK2/Scenes/Scene2.unity
     guid: 2b1ceffdfefa43b4691f0cc69988664f
+  - enabled: 1
+    path: Assets/TASK2/Scenes/Scene3.unity
+    guid: 4234d9ae516c3024987d721d897dcca8
   m_configObjects: {}
