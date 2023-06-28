@@ -12,4 +12,9 @@ public class SceneLoad : MonoBehaviour
         StaticVariables.sceneToLoad = sceneName;
         SceneManager.LoadScene("LoadingScreen");
     }
+
+    public static void QuitGame()
+    {
+        Application.Quit();
+    }
 }
